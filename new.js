@@ -3,4 +3,4 @@ const person ={
     age:50,
     eyecolor:"brown"
 };
-document.getElementById("demonnerHTML = person["n + " is "erson["age"] +  " years old
+document.getElementById("demonnerHTML = perso["n + " is "erson["age"] +  " years old
