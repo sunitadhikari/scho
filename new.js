@@ -6,7 +6,7 @@
 // //   }
 // //   getData();
 
-jglkj
+jg
 //   async function example() {
    
 //     const response = await fetch('https://jsonplaceholder.typicode.com/todos/1');
