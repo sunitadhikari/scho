@@ -1,8 +1,7 @@
 // //
 //   async function example() {
    
-//     const response = aw
-   
+//     const r
 
 //   }
 async function exapmle(){
