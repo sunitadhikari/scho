@@ -6,8 +6,6 @@
 //    console.log(data);
    
 
-//     // const data = await respo
-//     // co
 //   }
 async function exapmle(){
 
