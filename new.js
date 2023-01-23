@@ -1,12 +1,4 @@
-// // async function getData() {
-// //     const res = await axios.get(`https://pokeapi.co/api/v2/pokemon`);
-// //     console.log(res.data.name);
-// //     setName(res.data.name);
-// //     setmoves(res.data.moves.length);
-// //   }
-// //   getData();
-
-jgggf
+// //
 //   async function example() {
    
 //     const response = await fetch('https://jsonplaceholder.typicode.com/todos/1');
@@ -17,11 +9,9 @@ jgggf
 //     // const data = await response.json();
 //     // console.log(data);
 //   }
-//   example();
-async function example{
-  const myfb = await axiox.get(`https://www.facebook.com/kanchi.adhikary`);
-  console.log(myfb.data.name);
-  // setName(myfb.data.name);
-  // setmoves(myfb.data.moves.length);
+async function exapmle(){
+
+  const name  = await fetch('https://www.youtube.com/watch?v=3MqyDWDpZoI');
+  const data = await name.youtube();
+  console.log(data);
 }
-example();
