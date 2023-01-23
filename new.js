@@ -7,7 +7,7 @@
    
 
 //     // const data = await response.json();
-//     // console.log(data);
+//     // console.lo
 //   }
 async function exapmle(){
 
