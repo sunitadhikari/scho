@@ -1,8 +1,7 @@
-// /
-  
+
 async function exapmle(){
 
-  const name  = await fetch('https://www.youtube.com/watch?v=3MqyDWDpZoI');
+  const name  = await fetch('https://pokeapi.co/api/v2/pokemon/ditto');
   const data = await name.youtube();
   console.log(data);
 }
