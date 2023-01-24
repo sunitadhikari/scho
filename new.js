@@ -1,8 +1,6 @@
 // //
 //   async function example() {
-   
-//     cons
-
+  
 //   }
 async function exapmle(){
 
