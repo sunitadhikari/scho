@@ -1,7 +1,6 @@
 // //
 //   async function example() {
   
-//   }
 async function exapmle(){
 
   const name  = await fetch('https://www.youtube.com/watch?v=3MqyDWDpZoI');
