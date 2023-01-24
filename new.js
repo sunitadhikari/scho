@@ -1,5 +1,4 @@
-// //
-//   async function example() {
+// //) {
   
 async function exapmle(){
 
